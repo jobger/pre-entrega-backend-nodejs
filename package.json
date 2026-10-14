@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jobeth Tiburcio",
+  "license": "MIT",
+  "type": "module"
+}
